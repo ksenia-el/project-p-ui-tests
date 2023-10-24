@@ -1,16 +1,16 @@
 # project-p-ui-tests
 
-A snippet of the framework - as a part of the portfolio - with automated tests created for P.* project (web App for b2b, b2c segments; providing delivery solutions for companies, small businesses, and private clients)
+🔸 A snippet of the framework - as a part of the portfolio - with automated tests created for P.* project (web App for b2b, b2c segments; providing delivery solutions for companies, small businesses, and private clients)
 
-The framework is designed based on Page Object Model (POM).
+🔸 The framework is designed based on Page Object Model (POM).
 
-Includes selected test scenarios that:
+🔸 Includes selected test scenarios that:
 - validate UI functionality for some of the key user flows 
 - are parametrized to run on multiple sets of data for comprehensive coverage
 - use fixtures for preconditions setup
 - run in each regression testing cycle 
 
-Also, supporting methods are decorated with step annotations for Allure Report framework, that is integrated into the project. So that reports of test execution can be generated automatically and in an easy-to-read format.
+🔸 Also, supporting methods are decorated with step annotations for Allure Report framework, that is integrated into the project. So that reports of test execution can be generated automatically and in an easy-to-read format.
 
 ▶️ To install all packages and modules used in the project, simply run the command "pip install -r requirements.txt" in the Terminal of Pycharm.
 

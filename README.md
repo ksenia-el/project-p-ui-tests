@@ -1,4 +1,4 @@
-# project-p-ui-tests
+# project-p-ui-tests-framework
 
 🔸 A snippet of the framework - as a part of the portfolio - with automated tests created for P.* project (web App for b2b, b2c segments; providing delivery solutions for companies, small businesses, and private clients)
 
